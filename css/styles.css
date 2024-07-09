@@ -20,6 +20,7 @@ body {
     place-items: center;
     height: 100vh;
     text-align: center;
+    padding: 1rem;
 }
 
 .card-wrapper {
@@ -53,7 +54,7 @@ h2 {
 }
 
 p {
-    margin: 1.5rem auto 0.5rem;
+    margin: 1.75rem auto 0.75rem;
     font-size: 0.875rem;
 }
 
